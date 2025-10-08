@@ -11,7 +11,7 @@ using namespace std;
 // Bu kısımda struct tanımlandı
 //Ödevde belirtilen içerikler eklendi
 //name, age, GPA
- struct Student
+struct Student
 {
     string name;
     int age;
